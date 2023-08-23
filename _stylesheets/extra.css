@@ -1,3 +1,10 @@
+:root {
+  --md-primary-fg-color:        #1c6e56;
+  --md-primary-fg-color--light: #eaf8f4;
+  --md-primary-fg-color--dark:  #1c6e56;
+  --md-accent-fg-color:         #38ad8a;
+}
+
 header {
     background-image: linear-gradient(60deg, #1c6e56 0%, #1c6e56 25%, #1c6e56 100%);
 }
