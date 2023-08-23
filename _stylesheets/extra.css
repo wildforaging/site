@@ -1,0 +1,14 @@
+header {
+    background-image: linear-gradient(60deg, #1c6e56 0%, #1c6e56 25%, #1c6e56 100%);
+}
+
+/* Sidebar */
+@media screen and (max-width: 76.1875em) {
+    .md-nav__title {
+        background-image: linear-gradient(60deg, #1c6e56 0%, #1c6e56 25%, #1c6e56 100%);
+    }
+
+    .md-nav--primary .md-nav__title {
+     color: white;
+    }
+   }
