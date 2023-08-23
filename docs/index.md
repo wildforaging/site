@@ -18,4 +18,4 @@ title: Wild Foraging
 
 ---
 
-*For legal purposes, we must state that this site is for informational purposes only. Please do not consume anything from the wild if you are uncertain.*
+*The content found on this site is for informational purposes only. Please do not consume anything from the wild if you are uncertain.*
