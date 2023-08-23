@@ -11,6 +11,8 @@ Acerola fruit is 91% water, and 8% carbohydrates, and contains negligible protei
 Acerola flowers and fruits already in the first year after planting but increases its production in the following years, reaching up to 47 kg/per plant in the sixth year. The fruiting season usually extends from April to November. The fruits should be picked frequently, as they are not stored on the tree. Ripe fruit should be handled carefully to avoid bruising and should be utilized as soon as possible or frozen for later use. Semi-ripe fruit will usually keep for several days in the refrigerator. Pollination by wild insects increases the fruit yield.
 
 ## How to Grow It
+Plants can be set at any time of the year, but the best time is spring, just before the rainy season. Choose a location with good water drainage and in a sheltered spot.
+
 Acerola can be propagated by seed, cutting, or other methods. It prefers dry, well-drained, sandy soil and full sun, and cannot endure temperatures lower than 30 °F/ -1 °C. Because of its shallow roots, it has very low tolerance to winds. Furthermore, a sufficient water supply is advantageous for good growth and maximum yields of large fruits. This is especially important during fruiting and flowering. The optimal growth conditions are reached at a mean temperature of 26 °C and 1200–1600 mm of rainfall annually.
 
 ## Description
