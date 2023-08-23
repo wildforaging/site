@@ -1,7 +1,13 @@
-# Wild Foraging
+# 👋 Welcome
 
-Wild Foraging is a network of passionate and knowledgeable foragers and wild crafters who collectively curate high quality information on foraging from the wild.
+🌱  **Wild Foraging** is a network of passionate foragers from around the world collaborating on a high quality information resource for anyone who is curious to learn more.
 
-Check out the website here: [Wild Foraging](https://wildforaging.github.io/site/)
+✍️ Would you like to become a contributor? Please reach out to us directly.
 
-If you would like to become a contributor, please contact us directly.
+---
+
+Visit the site: [wildforaging.net](https://www.wildforaging.net)
+
+---
+
+*The content found on this site is for informational purposes only. Please do not consume anything from the wild if you are uncertain.*
