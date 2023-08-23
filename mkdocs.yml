@@ -1,15 +1,16 @@
 site_name: Wild Foraging
 theme:
   name: material
-  logo: _assets/images/harvest-bw.svg
-  favicon: _assets/images/harvest-bw.svg
+  logo: _assets/images/wf.png
+  favicon: _assets/images/wf.png
+  custom_dir: extras/.overrides
   palette:
 
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: green
-      accent: green
+      primary: custom
+      accent: custom
       toggle:
         icon: material/toggle-switch
         name: Switch to dark mode
@@ -17,8 +18,8 @@ theme:
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: green
-      accent: green
+      primary: custom
+      accent: custom
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to light mode

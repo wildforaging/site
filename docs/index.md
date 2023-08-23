@@ -1,9 +1,21 @@
-# Welcome
+<!-- ---
+template: home.html
+title: Wild Foraging
+--- -->
+# 👋 Welcome
 
-Welcome to the Wild Foraging network. We are a collective of passionate and knowledgeable wild foragers and wild crafters building a valuable resource for all who are interested in learning more about wild foraging.
 
-Our Contributors:
+🌱  **Wild Foraging** is a network of passionate foragers from around the world collaborating on a high quality information resource for anyone who is curious to learn more.
 
-- Andy Firk
-- Eric Lewis
-- Bobaba Beebe
+
+✍️ Would you like to become a contributor? Please reach out to us directly for an interview.
+
+---
+
+** Foraging Sections**
+
+[Plants](/Plants){ .md-button .md-button--primary }
+
+---
+
+*For legal purposes, we must state that this site is for informational purposes only. Please do not consume anything from the wild if you are uncertain.*
