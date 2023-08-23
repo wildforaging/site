@@ -13,4 +13,19 @@ Acerola flowers and fruits already in the first year after planting but increase
 ## How to Grow It
 Acerola can be propagated by seed, cutting, or other methods. It prefers dry, well-drained, sandy soil and full sun, and cannot endure temperatures lower than 30 °F/ -1 °C. Because of its shallow roots, it has very low tolerance to winds. Furthermore, a sufficient water supply is advantageous for good growth and maximum yields of large fruits. This is especially important during fruiting and flowering. The optimal growth conditions are reached at a mean temperature of 26 °C and 1200–1600 mm of rainfall annually.
 
+## Description
+Acerola is an evergreen shrub or small tree with spreading branches on a short trunk. It is usually 2–3 m (6.6–9.8 ft) tall, but sometimes reaches 6 m (20 ft) in height. The chromosome number is 2n = 40.
+
+### Bark
+The bark of young branches is green and sparsely covered with curly-haired trichomes, which fall off with age. The greyish to brownish bark is relatively smooth and covered with conspicuous cork pores when young. With age, it is thick and cracked.
+
+### Leaves
+The leaves are simple, ovate to elliptic-lanceolate in outline, 2–8 cm (0.79–3.15 in) long, 1–4 cm (0.39–1.57 in) wide, with an entire or undulating margin. They are attached oppositely on the stem on short petioles. The leaves have small hairs, which can irritate skin.
+
+### Flowers
+The flowering of the tree happens from April to November. Flowers are bisexual and 1–2 cm (0.39–0.79 in) in diameter. They have five pale to deep pink or red fringed petals, 10 stamens, and six to 10 glands on the calyx. The three to five flowers per inflorescence are sessile or short-peduncled axillary cymes.
+
+### Fruits and Seeds
+Three years after planting, trees start producing fruits. 3–4 weeks after flowering, a number of bright red drupes 1–3 cm (0.39–1.18 in) in diameter with a mass of 3–5 g (0.11–0.18 oz) mature. The shell of the fruit is smooth and very thin. Its shelf life of 2–3 days at ambient temperature makes it highly perishable. Drupes are in pairs or groups of three, and each contains three triangular seeds. The drupes are juicy and high in vitamin C (300–4600 mg/100g) and other nutrients. They are divided into three obscure lobes and are usually acidic to subacidic, giving them a sour taste, but may be sweet if grown well.
+
 ![Barbados Cherry](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Malpighia_glabra_blossom_and_unripe_fruits.jpg/1920px-Malpighia_glabra_blossom_and_unripe_fruits.jpg)
