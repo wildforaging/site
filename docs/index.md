@@ -12,7 +12,7 @@ title: Wild Foraging
 
 ---
 
-** Foraging Sections**
+**Foraging Sections**
 
 [Plants](/Plants){ .md-button .md-button--primary }
 
