@@ -1,13 +1,8 @@
 site_name: Wild Foraging
-edit_uri: edit/main/docs/
 theme:
   name: material
   logo: _assets/images/harvest-bw.svg
   favicon: _assets/images/harvest-bw.svg
-  features:
-    - content.action.edit
-  icon:
-    edit: material/pencil
   palette:
 
     # Palette toggle for light mode
