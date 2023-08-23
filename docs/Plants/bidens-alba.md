@@ -14,3 +14,6 @@ Bidens alba provide a nectar source for butterflies and honey-bees.
 Bidens is a nutrient dense wild plant, boasting a similar nutrient profile to kale - high in fiber and proteins, carotenes, folate, and magnesium. People in South Africa, Zulus, and Indians consume the fresh or dried leaves by boiling them. Young leaves of B. alba may also be eaten as a salad. Bidens alba contains saponins, so older leaves may be unpleasant to the taste and may upset the stomach.
 
 The dried leaves of the B. Alba also make a good tobacco substitute.
+
+## Cultivation
+Bidens alba is a fast-growing, fast-spreading weed due to its enormous number of seeds and the ability to re-grow from stems. In sub-tropical to tropical conditions, B. alba can grow almost everywhere in full sun with little or no moisture. The most growth occurs in organic matter with loose soil; however, they can also propagate well on sand and lime-rocks in non-irrigated habitats. The seeds are dispersed mainly by animals or humans, although some are also carried by wind and water.
