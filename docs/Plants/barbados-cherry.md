@@ -13,7 +13,9 @@ Acerola flowers and fruits already in the first year after planting but increase
 ## How to Grow It
 Plants can be set at any time of the year, but the best time is spring, just before the rainy season. Choose a location with good water drainage and in a sheltered spot.
 
-Acerola can be propagated by seed, cutting, or other methods. It prefers dry, well-drained, sandy soil and full sun, and cannot endure temperatures lower than 30 °F/ -1 °C. Because of its shallow roots, it has very low tolerance to winds. Furthermore, a sufficient water supply is advantageous for good growth and maximum yields of large fruits. This is especially important during fruiting and flowering. The optimal growth conditions are reached at a mean temperature of 26 °C and 1200–1600 mm of rainfall annually.
+Acerola can be propagated by seed, cutting, or other methods. It prefers dry, well-drained, sandy soil and full sun, and cannot endure temperatures lower than 30 °F/ -1 °C. Because of its shallow roots, it has very low tolerance to winds. Furthermore, a sufficient water supply is advantageous for good growth and maximum yields of large fruits. This is especially important during fruiting and flowering.  
+
+The optimal growth conditions are reached at a mean temperature of 26 °C and 1200–1600 mm of rainfall annually.
 
 ## Description
 Acerola is an evergreen shrub or small tree with spreading branches on a short trunk. It is usually 2–3 m (6.6–9.8 ft) tall, but sometimes reaches 6 m (20 ft) in height. The chromosome number is 2n = 40.
