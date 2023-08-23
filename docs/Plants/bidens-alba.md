@@ -7,3 +7,10 @@ The stem of B. alba plant emerges from the taproot, yet the bent stem at the bas
 Bidens alba leaves, which are simple on the opposite side and compound on the underneath, are 2–10 centimetres (1–4 in) long and 1.0–3.5 cm (3⁄8–1+3⁄8 in) wide. The underside leaf is hairy, and has toothed edges.[4] The leaves may be lobed, depending on the species. Some have teeth and some do not; each node produces two leaves along the stem.
 
 Each flowering head of B. alba, which is small, appears in radial symmetry. The flowers on this plant are depicted as daisy-like due to the larger white petals and the very small yellow flowers which are located at the end of the branches. Colors of the flower-heads of Bidens alba vary depending on the subspecies; some B. alba have yellow, tubular central blossoms and others may have flower-heads with white or cream petals (1.5 cm or 5⁄8 in long); eventually they form black linear seeds, yielding approximately 1200 seeds per plant.
+
+## Uses
+Bidens alba provide a nectar source for butterflies and honey-bees.
+
+Bidens is a nutrient dense wild plant, boasting a similar nutrient profile to kale - high in fiber and proteins, carotenes, folate, and magnesium. People in South Africa, Zulus, and Indians consume the fresh or dried leaves by boiling them. Young leaves of B. alba may also be eaten as a salad. Bidens alba contains saponins, so older leaves may be unpleasant to the taste and may upset the stomach.
+
+The dried leaves of the B. Alba also make a good tobacco substitute.
