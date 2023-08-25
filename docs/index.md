@@ -1,7 +1,7 @@
-<!-- ---
+---
 template: home.html
-title: Wild Foraging
---- -->
+title: Home
+---
 # 👋 Welcome
 
 

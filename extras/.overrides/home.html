@@ -17,10 +17,6 @@
       margin: 0;
     }
 
-    /* Hide main content for now */
-    .md-content {
-      display: none;
-    }
 
     /* Hide table of contents */
     @media screen and (min-width: 60em) {
@@ -30,45 +26,143 @@
     }
 
     /* Hide navigation */
-    @media screen and (min-width: 76.25em) {
+    /* @media screen and (min-width: 76.25em) {
       .md-sidebar--primary {
         display: none;
       }
-    }
+    } */
   </style>
 
-  <!-- Hero for landing page -->
-  <section class="mdx-container">
-    <div class="md-grid md-typeset">
-      <div class="mdx-hero">
+<body dir=ltr data-md-color-scheme=default data-md-color-primary=indigo data-md-color-accent=indigo>
+  <input class=md-toggle data-md-toggle=drawer type=checkbox id=__drawer autocomplete=off>
+  <input class=md-toggle data-md-toggle=search type=checkbox id=__search autocomplete=off>
+  <label class=md-overlay for=__drawer></label>
+  <div data-md-component=skip></div>
+  <div data-md-component=announce></div>
 
-        <!-- Hero image -->
-        <div class="mdx-hero__image">
-          <img
-            src="assets/images/foraging.jpg"
-            alt=""
-            width="1659"
-            height="1200"
-            draggable="false"
-          >
+  <div class=md-container data-md-component=container>
+      <div class=mdx-parallax data-mdx-component=parallax>
+          <section class=mdx-parallax__group data-md-color-scheme=slate>
+
+              <picture class=mdx-parallax__layer style="--md-parallax-depth: 8;--md-image-position: 70%">
+                  <img src="assets/images/foraging.png" alt class=mdx-parallax__image>
+              </picture>
+
+              <div class="mdx-parallax__layer mdx-parallax__blend"></div>
+              <div class=mdx-hero data-mdx-component=hero>
+                  <div class="mdx-hero__scrollwrap md-grid">
+                      {#<!-- <nav class=md-tabs aria-label=Tabs data-md-component=tabs>
+                          <div class=md-grid>
+                              <ul class=md-tabs__list>
+                                  <li class="md-tabs__item md-tabs__item--active">
+                                      <a href=. class=md-tabs__link>Home </a>
+                                  </li>
+                                  <li class=md-tabs__item>
+                                      <a href=getting-started/ class=md-tabs__link>Getting started </a>
+                                  </li>
+                                  <li class=md-tabs__item>
+                                      <a href=setup/ class=md-tabs__link>Setup </a>
+                                  </li>
+                                  <li class=md-tabs__item>
+                                      <a href=reference/ class=md-tabs__link>Reference </a>
+                                  </li>
+                                  <li class=md-tabs__item>
+                                      <a href=insiders/ class=md-tabs__link>Insiders </a>
+                                  </li>
+                                  <li class=md-tabs__item>
+                                      <a href=blog/ class=md-tabs__link>Blog </a>
+                                  </li>
+                              </ul>
+                          </div>
+                      </nav> #}
+                      <div class=mdx-hero__inner>
+                          <div class="mdx-hero__teaser md-typeset">
+                              <h1>Wild Foraging</h1>
+                              <p>A network of expert wild crafters collaborating on high-quality content.</p>
+                              <a href=Plants/ class="md-button md-button--primary">Read </a>
+                              <a href=#contribute class="md-button md-button--secondary">Contribute </a>
+                          </div>
+                          <div class=mdx-hero__more>
+                              <svg xmlns=http://www.w3.org/2000/svg viewbox="0 0 24 24">
+                                  <path d="M11 4h2v12l5.5-5.5 1.42 1.42L12 19.84l-7.92-7.92L5.5 10.5 11 16V4Z"/>
+                              </svg>
+                          </div>
+                      </div>
+                  </div>
+              </div>
+          </section>
+          <section class=mdx-parallax__group data-md-color-scheme=slate>
+            <div class="md-content md-grid" data-md-component=content>
+                <div class="md-content__inner padsection">
+                    <header class=md-typeset hidden>
+                        <h1 id=more-than-just-a-static-site>
+                          The Wild Foraging Network
+                        </h1>
+                    </header>
+                    <div class=mdx-spotlight>
+                        <figure class=mdx-spotlight__feature hidden>
+                            <a href=setup/setting-up-site-search/ title="Foraging" tabindex=-1>
+                                <img src="/assets/images/glennforaging.png" alt="foraging" loading=lazy width=500 height=327>
+                            </a>
+                            <figcaption class=md-typeset>
+                                <p>Foraging, the ancient art of gathering food and medicine from the wild, is experiencing a modern renaissance. As more individuals seek to reconnect with nature, understand the origin of their food, and harness the therapeutic powers of wild plants and fungi, there's an increasing demand for reliable, in-depth resources. That's where <b>Wild Foraging</b> comes in.</p>
+
+                                <p>Here's why <b>Wild Foraging</b> is an indispensable companion for both novices and seasoned foragers alike:</p>
+                                <ul>
+                                  <li><b>Expert Insights</b>: Our platform isn't just another blog. It's a collective of seasoned foragers who have spent years, if not decades, learning the secrets of the wild. Their experiences span various terrains, climates, and bioregions, providing you with a comprehensive understanding of foraging practices.</li>
+                                  <li><b>Safety First</b>: Foraging can be dangerous if you don't know what you're doing. Mistaking a toxic plant or mushroom for an edible one can have dire consequences. With our meticulous guides and firsthand accounts, you'll learn to differentiate between safe and unsafe finds, ensuring your foraging adventures remain delightful and free from harm.</li>
+                                  <li><b>Seasonal Guides</b>: Nature's bounty varies with the seasons. Our platform offers regularly updated seasonal guides, helping you identify what's ripe for picking throughout the year, no matter where you are.</li>
+                                  <li><b>Sustainable Practices</b>: In our quest for wild foods, it's crucial to forage in ways that ensure the ecosystems remain vibrant for future generations. Wild Forager emphasizes sustainable and ethical foraging practices, ensuring that we give back as much as we take.</li>
+                                  <li><b>Community Support</b>: The Wild Forager community is a supportive network of enthusiasts who are always ready to share tips, answer questions, and discuss their latest finds. Whether you're looking for identification help or simply want to share your joy over a rare discovery, our community is here for you.</li>
+                                  <li><b>Holistic Approach</b>: Beyond just identifying and harvesting, we delve deep into the culinary, medicinal, and cultural significance of foraged items. Learn not just what you can eat, but how best to prepare it, its historical significance, and its potential health benefits.</li>
+                                </ul>
+                                <p>In a world increasingly disconnected from its roots, <b>Wild Forager</b> invites you to rediscover the earth's bounty, one wild find at a time. Whether you're setting out on your first foraging adventure or are looking to deepen your existing knowledge, our platform offers the tools, community, and expertise you need.</p>
+
+                            </figcaption>
+                        </figure>
+                    </div>
+                 </div>
+              </div>
+            </section>
+            <section class=mdx-parallax__group data-md-color-scheme=default>
+              <div class="md-content md-grid" data-md-component=content>
+                  <div class="md-content__inner padsection">
+                      <header class=md-typeset hidden>
+                          <h1 id=contribute>
+                            Want to Contribute to Wild Foraging?
+                          </h1>
+                      </header>
+                      <div class=mdx-spotlight>
+                          <figure class=mdx-spotlight__feature hidden>
+                              <a href=setup/setting-up-site-search/ title="Foraging" tabindex=-1>
+                                  <img src="/assets/images/contribute.png" alt="foraging" loading=lazy width=500 height=327>
+                              </a>
+                              <figcaption class=md-typeset>
+
+                                <p>At <b>Wild Foraging</b>, we pride ourselves on the depth, authenticity, and quality of our content. Our community thrives on shared experiences and insights from foragers worldwide. If you have a passion for foraging and a wealth of knowledge or unique experiences you'd like to share, we'd love to hear from you!</p>
+
+                                <p>However, to maintain the high standards our readers have come to expect, our selection process for contributors is thorough. Here's what you can anticipate:</p>
+
+                                <li><b>Expertise & Authenticity</b>: We seek contributors who have firsthand experience with foraging. Whether you've been foraging as a hobby for years, or it's your profession, we value genuine experiences and deep-rooted knowledge.</li>
+
+                                <li><b>Interview Process</b>: Interested contributors will undergo an interview process with our team. This not only helps us gauge your expertise but also allows us to align on the values, ethos, and quality standards of <b>Wild Foraging</b>.</li>
+
+                                <li><b>Commitment to Sustainability</b>: As part of our community, we expect all contributors to uphold and promote sustainable and ethical foraging practices. We aim to educate without causing harm to our natural ecosystems.</li>
+
+                                <li><b>Collaborative Spirit</b>: More than just a platform—<b>Wild Foraging</b> is a community. We value contributors who are open to feedback, eager to learn from others, and ready to engage constructively with our vibrant network of foragers.</li>
+
+                                <p>If you believe you have what it takes to be a part of our growing family of experts and enthusiasts, we encourage you to reach out directly. Your unique perspective and insights might be the very thing our readers are eager to explore next!</p>
+
+                                <b>Contact us to initiate the conversation and embark on this exciting journey together.</b>
+                              </figcaption>
+                          </figure>
+                      </div>
+                   </div>
+                </div>
+              </section>
         </div>
-
-        <!-- Hero content -->
-        <div class="mdx-hero__content">
-          <h1>Technical documentation that just works</h1>
-          <p>{{ config.site_description }}. Set up in 5 minutes.</p>
-          <a
-            href="{{ page.next_page.url | url }}"
-            title="{{ page.next_page.title | e }}"
-            class="md-button md-button--primary"
-          >
-            Start Reading
-          </a>
-
-        </div>
-      </div>
     </div>
-  </section>
+</body>
 {% endblock %}
 
 <!-- Content -->

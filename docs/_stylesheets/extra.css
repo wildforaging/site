@@ -1,14 +1,14 @@
 :root {
-  --md-primary-fg-color:        #44ac8d;
+  --md-primary-fg-color:        #299977;
   --md-primary-fg-color--light: #eaf8f4;
   --md-primary-fg-color--dark:  #44ac8d;
   --md-accent-fg-color:         #33b5cc;
   --md-default-fg-color--light:   #44ac8d;
 }
 
-header {
+/* header {
     background-image: linear-gradient(60deg, #1c6e56 0%, #1c6e56 25%, #1c6e56 100%);
-}
+} */
 
 [data-md-color-scheme="slate"] {
   --md-hue: 400;
@@ -17,6 +17,7 @@ header {
 .md-typeset h1{
   color: #44ac8d;
  }
+
 
 
 /* Sidebar */

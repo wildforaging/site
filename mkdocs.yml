@@ -1,8 +1,8 @@
 site_name: Wild Foraging
 theme:
   name: material
-  logo: _assets/images/wf.png
-  favicon: _assets/images/wf.png
+  logo: _assets/images/wf-logo.png
+  favicon: _assets/images/wf-logo.png
   custom_dir: extras/.overrides
   palette:
 
